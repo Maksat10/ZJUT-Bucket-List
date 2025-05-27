@@ -1,7 +1,4 @@
 # ZJUT Bucket List 🎓✅  
-*An Android app for managing pre-graduation goals with intuitive CRUD operations*
-
----
 
 ## Overview  
 A minimalist bucket list manager specifically designed for students tracking pre-graduation milestones. Built with Java in Android Studio, featuring 9 core components for seamless task management and real-time updates.
